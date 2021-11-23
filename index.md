@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## 嘿，你来了，我等你很久了。
 
-You can use the [editor on GitHub](https://github.com/EtonC777/Eton_C/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+我相信一句话，这句话是我所信赖的一句诗词。
+它来自杜牧的《叹花》：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+“狂风落尽深红色，绿叶成荫子满枝”
 
-### Markdown
+而这句话是我人生的解码。我想要分享给你。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### 这里是我写过的一段文字：
+
+他们没有那么动听，却也是我异于常人的脑回路里能想到的最真诚的句子：
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+海洋的存在
+是为了星河与陆地相吻
+这是尘埃云的浪漫
+而我的浪漫是一生为你哭
 
-- Bulleted
-- List
+为你笑着哭
+哭着哭
+嫉妒地哭
+愤怒地哭
 
-1. Numbered
-2. List
+用每一个毛孔
+每一根发丝
+每一处瘢痕
 
-**Bold** and _Italic_ and `Code` text
+去流出湛蓝的咸水
 
-[Link](url) and ![Image](src)
+我想告诉你
+我的眼泪的存在
+是为了和你在这世间相认
+
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 你需要联系我吗？
 
-### Jekyll Themes
+如果你真的需要，这里是我的联系方式：
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EtonC777/Eton_C/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+weibo：@桃子味Eton_C
 
-### Support or Contact
+最后的最后，
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+谢谢你能来。
